@@ -166,7 +166,7 @@ img.slideshow {
     top: 80px;
     width: 100%;
      max-height: 500px;
-    max-width: 1260px;
+    max-width: 100%;
 }
 
 img.slideshow + img.slideshow {
